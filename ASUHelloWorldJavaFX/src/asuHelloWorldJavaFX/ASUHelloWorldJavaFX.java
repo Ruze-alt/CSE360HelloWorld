@@ -21,7 +21,7 @@ public class ASUHelloWorldJavaFX extends Application {
         btn.setText("Mathm's second commit");
         btn.setOnAction(new EventHandler<>() {
             public void handle(ActionEvent event) {
-                System.out.println("ASU: Hello World!");
+                System.out.println("Mathm's second commit");
             }
         });
         
